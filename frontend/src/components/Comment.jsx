@@ -1,6 +1,7 @@
 import { Avatar, Divider, Flex, Text } from '@chakra-ui/react';
 import React, { useState } from 'react'
 
+
 function Comment({reply,lastReply}) {
   return (
     <>
